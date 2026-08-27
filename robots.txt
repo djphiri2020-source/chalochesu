@@ -1,0 +1,12 @@
+# Allow all reputable search engine crawlers
+User-agent: *
+Allow: /
+
+# Disallow crawling of technical directories
+Disallow: /includes/
+Disallow: /config/
+Disallow: /admin/
+
+# Point crawlers to the sitemap for a full list of indexable pages.
+# IMPORTANT: Replace "https://www.yourdomain.com" with your actual website domain.
+Sitemap: https://chalochesu.com/sitemap.xml

@@ -1,0 +1,46 @@
+[09-Dec-2025 21:51:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/chaluogo/public_html/chalochesu/admin/includes/header.php on line 2
+[09-Dec-2025 21:56:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/chaluogo/public_html/chalochesu/admin/includes/header.php on line 2
+[09-Dec-2025 21:56:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/chaluogo/public_html/chalochesu/admin/includes/header.php on line 2
+[09-Dec-2025 21:57:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/chaluogo/public_html/chalochesu/admin/includes/header.php on line 2
+[22-Dec-2025 04:59:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chaluogo_chalo.sdgs' doesn't exist in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php:116
+Stack trace:
+#0 /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php(116): PDO->query()
+#1 {main}
+  thrown in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php on line 116
+[22-Dec-2025 04:59:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chaluogo_chalo.sdgs' doesn't exist in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php:116
+Stack trace:
+#0 /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php(116): PDO->query()
+#1 {main}
+  thrown in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php on line 116
+[22-Dec-2025 05:00:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chaluogo_chalo.sdgs' doesn't exist in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php:116
+Stack trace:
+#0 /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php(116): PDO->query()
+#1 {main}
+  thrown in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php on line 116
+[22-Dec-2025 05:01:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chaluogo_chalo.sdgs' doesn't exist in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php:116
+Stack trace:
+#0 /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php(116): PDO->query()
+#1 {main}
+  thrown in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php on line 116
+[04-Jan-2026 06:13:43 UTC] PHP Warning:  Undefined array key "title" in /home/chaluogo/public_html/chalochesu/admin/manage_heroes.php on line 17
+[04-Jan-2026 06:13:43 UTC] PHP Warning:  Undefined array key "tagline" in /home/chaluogo/public_html/chalochesu/admin/manage_heroes.php on line 18
+[16-Jan-2026 16:29:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/chaluogo/public_html/chalochesu/admin/includes/header.php on line 2
+[16-Jan-2026 16:29:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chaluogo_chalo.sdgs' doesn't exist in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php:116
+Stack trace:
+#0 /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php(116): PDO->query()
+#1 {main}
+  thrown in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php on line 116
+[17-Jan-2026 21:25:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chaluogo_chalo.sdgs' doesn't exist in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php:116
+Stack trace:
+#0 /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php(116): PDO->query()
+#1 {main}
+  thrown in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php on line 116
+[17-Jan-2026 21:40:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/chaluogo/public_html/chalochesu/admin/includes/header.php on line 2
+[20-Jun-2026 09:44:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/chaluogo/public_html/chalochesu/admin/includes/header.php on line 2
+[20-Jun-2026 09:54:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/chaluogo/public_html/chalochesu/admin/includes/header.php on line 2
+[20-Jun-2026 10:09:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'chaluogo_chalo.sdgs' doesn't exist in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php:116
+Stack trace:
+#0 /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php(116): PDO->query()
+#1 {main}
+  thrown in /home/chaluogo/public_html/chalochesu/admin/manage_sdgs.php on line 116
+[23-Aug-2026 06:38:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/chaluogo/public_html/chalochesu/admin/includes/header.php on line 2
